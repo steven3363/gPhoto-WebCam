@@ -8,7 +8,7 @@ You will need gphoto2, v4l2loopback and gambas.
 Also, I expect that your user is setup as SuperUser (sudo)
 # Directions
 
-Intall 
+Install 
   gphoto2
   v4l2loopback 
   gambas3
