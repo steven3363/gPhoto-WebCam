@@ -8,7 +8,7 @@ You will need gphoto2, v4l2loopback and gambas.
 Also, I expect that your user is setup as SuperUser (sudo)
 # Directions
 
-Install 
+# Install 
   gphoto2
   v4l2loopback 
   gambas3
@@ -50,6 +50,9 @@ Note: If you close the App the webcam will stop.
 
 This is the first alpha version. I plan to support mutiple cameras and background removal / replacement
 
+You can't reset v4l2loopback when the webcam is active
+
+You will need to run reset v4l2loopback each time as it is not perminant
 
 
 
