@@ -20,6 +20,8 @@ Also, I expect that your user is setup as SuperUser (sudo)
 
 Open gambas and then complile. 
 
+or use one of the prebuilt files. a deb (Ubuntu not tested) and rpm (fedora)
+
 # Running
 
 1. Plug in your camera via USB
